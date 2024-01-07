@@ -15,7 +15,7 @@ This project is a simple To-Do website that allows users to perform CRUD (Create
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-express-postgresql.git
+   git clone https://github.com/Khushisrivastava202/CRUD-operations-To-do-app.git
    
 2. Navigate to the project directory:
    cd todo-express-postgresql
